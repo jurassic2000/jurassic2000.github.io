@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>侏罗纪小屋</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2020-10-24T13:53:37.487Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Jurassic</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>离散信源、信道</title>
+    <link href="http://example.com/2020/10/24/%E4%BF%A1%E6%81%AF%E8%AE%BA/"/>
+    <id>http://example.com/2020/10/24/%E4%BF%A1%E6%81%AF%E8%AE%BA/</id>
+    <published>2020-10-24T13:00:03.000Z</published>
+    <updated>2020-10-24T13:53:37.487Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="一·绪论"><a href="#一·绪论" class="headerlink" title="一·绪论"></a>一·绪论</h1><h2 id="1-信息"><a href="#1-信息" class="headerlink" title="1.信息"></a>1.信息</h2><ol><li>信息与消息、信号的区别</li><li>自信息</li><li>互信息</li></ol><h2 id="2-系统模型"><a href="#2-系统模型" class="headerlink" title="2.系统模型"></a>2.系统模型</h2><p>信源 -&gt; 编码器 -&gt; 信道 -&gt; 译码器 -&gt; 信宿</p><h2 id="3-研究内容"><a href="#3-研究内容" class="headerlink" title="3. 研究内容"></a>3. 研究内容</h2><h2 id="4-形成和发展"><a href="#4-形成和发展" class="headerlink" title="4. 形成和发展"></a>4. 形成和发展</h2><h1 id="二·-离散信源及信息测度"><a href="#二·-离散信源及信息测度" class="headerlink" title="二· 离散信源及信息测度"></a>二· 离散信源及信息测度</h1><h2 id="信源"><a href="#信源" class="headerlink" title="信源"></a>信源</h2><p>  信息的来源<br>  研究信源产生消息的不确定性</p><ol><li>信源的数学模型 </li></ol><h1 id="三·离散信道及信道容量"><a href="#三·离散信道及信道容量" class="headerlink" title="三·离散信道及信道容量"></a>三·离散信道及信道容量</h1><h2 id="下次一定"><a href="#下次一定" class="headerlink" title="下次一定  "></a>下次一定  </h2><hr><h2 id="未完待续"><a href="#未完待续" class="headerlink" title="未完待续"></a>未完待续</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="信息论" scheme="http://example.com/categories/%E4%BF%A1%E6%81%AF%E8%AE%BA/"/>
+    
+    
+    <category term="信息论1-3" scheme="http://example.com/tags/%E4%BF%A1%E6%81%AF%E8%AE%BA1-3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>信道编码</title>
+    <link href="http://example.com/2020/10/24/%E4%BF%A1%E6%81%AF%E8%AE%BA2/"/>
+    <id>http://example.com/2020/10/24/%E4%BF%A1%E6%81%AF%E8%AE%BA2/</id>
+    <published>2020-10-24T07:00:03.000Z</published>
+    <updated>2020-10-25T08:10:29.391Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="有噪信道编码定理"><a href="#有噪信道编码定理" class="headerlink" title="有噪信道编码定理"></a>有噪信道编码定理</h1><h2 id="1-信道编码概述"><a href="#1-信道编码概述" class="headerlink" title="1. 信道编码概述"></a>1. 信道编码概述</h2><h3 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h3><ul><li>提高可靠性</li><li>信道编码：按照一定的规则给信源编码后的码符号序列<font color=red>增加一些冗余信息</font>，使其变成<font color=red>具有一定数学规律</font>的码符号序列<h3 id="模型"><a href="#模型" class="headerlink" title="模型"></a>模型</h3></li><li>影响信息传输可靠性的主要因素<ol><li>杂波干扰</li><li>编码方法</li><li>译码方法</li></ol></li><li><font color=red>基本思想</font><br>  · 利用<font color=red>相关性</font>来检测和纠正传输过程中产生的差错<h2 id="2-译码准测与错误概率"><a href="#2-译码准测与错误概率" class="headerlink" title="2. 译码准测与错误概率"></a>2. 译码准测与错误概率</h2><h3 id="基本概念"><a href="#基本概念" class="headerlink" title="基本概念"></a>基本概念</h3></li></ul><ol><li>译码规则</li><li>错误概率</li><li>译码规则的选择<h3 id="两种重要译码准则"><a href="#两种重要译码准则" class="headerlink" title="两种重要译码准则"></a>两种重要译码准则</h3></li><li>最大后验概率译码规则MAP</li><li>极大似然译码规则ML<h3 id="费诺不等式"><a href="#费诺不等式" class="headerlink" title="费诺不等式"></a>费诺不等式</h3><h2 id="3-错误概率和编码方法"><a href="#3-错误概率和编码方法" class="headerlink" title="3. 错误概率和编码方法"></a>3. 错误概率和编码方法</h2><h2 id="4-有噪信道编码定理"><a href="#4-有噪信道编码定理" class="headerlink" title="4. 有噪信道编码定理"></a>4. 有噪信道编码定理</h2><h1 id="信道的纠错编码"><a href="#信道的纠错编码" class="headerlink" title="信道的纠错编码"></a>信道的纠错编码</h1></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="信息论" scheme="http://example.com/categories/%E4%BF%A1%E6%81%AF%E8%AE%BA/"/>
+    
+    
+    <category term="信息论6~9" scheme="http://example.com/tags/%E4%BF%A1%E6%81%AF%E8%AE%BA6-9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>tensorflow 指定 GPU</title>
+    <link href="http://example.com/2020/10/19/tensorflow-%E6%8C%87%E5%AE%9A-GPU/"/>
+    <id>http://example.com/2020/10/19/tensorflow-%E6%8C%87%E5%AE%9A-GPU/</id>
+    <published>2020-10-19T08:33:33.000Z</published>
+    <updated>2020-10-19T08:33:33.380Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>电磁场的基本规律</title>
+    <link href="http://example.com/2020/10/17/diancichang/"/>
+    <id>http://example.com/2020/10/17/diancichang/</id>
+    <published>2020-10-17T07:00:03.000Z</published>
+    <updated>2020-10-17T07:59:10.041Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="一·电荷守恒定律"><a href="#一·电荷守恒定律" class="headerlink" title="一·电荷守恒定律"></a>一·电荷守恒定律</h1><ol><li><p>电荷及电荷密度</p><ul><li><strong>电荷密度</strong></li><li><strong>q=∫ ρ</strong></li><li><strong>点电荷</strong> </li></ul></li><li><p>电流及电流密度</p><ul><li>i 电流 j 电流密度</li><li>i(t)=dq/dt</li><li>i=∫ j</li><li>j=ρv</li></ul></li><li><p>电流连续性方程</p><ul><li><strong>电荷守恒定律</strong></li><li><strong>积分形式</strong></li><li><strong>微分形式</strong></li><li><strong>恒定电流场</strong></li></ul></li></ol><h1 id="二·真空中静电场的基本规律"><a href="#二·真空中静电场的基本规律" class="headerlink" title="二·真空中静电场的基本规律"></a>二·真空中静电场的基本规律</h1><ol><li>库仑定律</li></ol><ul><li><strong>静电场叠加定理</strong></li></ul><ol><li><p>电场强度</p></li><li><p>分布电荷的电场</p></li></ol><ul><li><strong>电偶极子</strong></li><li><strong>均匀带电圆环</strong></li></ul><ol start="3"><li>静电场的散度和旋度<ol><li>散度和高斯定理</li><li>旋度和守恒定理</li></ol></li></ol><h1 id="三·真空中恒定磁场的基本规律"><a href="#三·真空中恒定磁场的基本规律" class="headerlink" title="三·真空中恒定磁场的基本规律"></a>三·真空中恒定磁场的基本规律</h1><ol><li><p>安培定律</p><ul><li>比奥-萨伐尔定律</li><li>电流元</li></ul></li><li><p>磁感应强度</p></li><li><p>分布电流产生的磁场</p><ul><li>电流圆环</li></ul></li><li><p>恒定磁场的散度和旋度</p></li><li><p>散度和磁通连续性定理</p></li><li><p>散度和安培环路定理</p></li></ol><h1 id="四·媒质的电磁特性"><a href="#四·媒质的电磁特性" class="headerlink" title="四·媒质的电磁特性"></a>四·媒质的电磁特性</h1><p>  极化 磁化 传导</p><ol><li>电介质极化</li></ol><ul><li>极化</li><li>极化强度</li><li>极化电荷密度</li><li>电位移矢量</li><li>介质中的高斯定理</li><li>基本方程</li><li>本构关系</li></ul><ol start="2"><li>磁介质磁化</li></ol><ul><li>磁化</li><li>磁化强度矢量</li><li>磁化电流密度</li><li>磁场强度</li><li>磁介质中的安培环路定理</li><li>基本方程</li><li>本构关系  </li></ul><ol start="3"><li>媒质的传导</li></ol><ul><li>欧姆定律</li><li>焦耳定律</li></ul><h1 id="五·电磁感应定律和位移电流"><a href="#五·电磁感应定律和位移电流" class="headerlink" title="五·电磁感应定律和位移电流"></a>五·电磁感应定律和位移电流</h1><ol><li>法拉第电磁感应<ul><li>感应电动势</li><li>电磁感应表达式<ul><li>积分形式</li><li>微分形式</li></ul></li></ul></li><li>位移电流<ul><li>变化电场产生磁场</li><li>解决安培环路定理用于时变场的矛盾</li><li>安培环路定理时变场的表达式</li><li>位移电流密度</li></ul></li></ol><h1 id="六·麦克斯韦方程组"><a href="#六·麦克斯韦方程组" class="headerlink" title="六·麦克斯韦方程组"></a>六·麦克斯韦方程组</h1><p>1.方程组</p><ul><li>积分形式</li><li>微分形式</li><li>物理意义</li><li>推导电流连续行方程</li><li>特例</li></ul><ol start="2"><li>媒质的本构关系</li></ol><h1 id="七·边界条件"><a href="#七·边界条件" class="headerlink" title="七·边界条件"></a>七·边界条件</h1><ol><li>一般边界</li><li>两种特殊的边界条件</li><li>折射定律</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="电磁场" scheme="http://example.com/categories/%E7%94%B5%E7%A3%81%E5%9C%BA/"/>
+    
+    
+    <category term="电磁场" scheme="http://example.com/tags/%E7%94%B5%E7%A3%81%E5%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mini_batch</title>
+    <link href="http://example.com/2020/10/14/mini-batch/"/>
+    <id>http://example.com/2020/10/14/mini-batch/</id>
+    <published>2020-10-13T16:09:03.000Z</published>
+    <updated>2020-10-16T14:00:54.495Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="采样"><a href="#采样" class="headerlink" title="采样"></a>采样</h1><p>我气死了</p><p>```python<br>def file_paths(data_num, np_file_path):<br>    path0 = [] #这个是anchor<br>    path1 = []<br>    path2 = []<br>    path3 = []<br>    path4 = []<br>    path5 = []<br>    path6 = []<br>    np_file_list = os.listdir(np_file_path) #采样策略修改部分</p><pre><code>for i in range(int(data_num/2)):    selected_path = random.sample(np_file_list, 2)    pos_path = os.path.join(np_file_path, selected_path[0])    neg_path = os.path.join(np_file_path, selected_path[1])    pos_utter_path = random.sample(os.listdir(pos_path), 8)    neg_utter_path = random.sample(os.listdir(neg_path), 7)    path0_pos_file_path = os.path.join(pos_path, pos_utter_path[7])    path0.append(path0_pos_file_path)    path0_pos_file_path2 = os.path.join(pos_path, pos_utter_path[0])    path0.append(path0_pos_file_path2)    path1_pos_file_path = os.path.join(pos_path, pos_utter_path[1])    path1.append(path1_pos_file_path)    path1_neg_file_path = os.path.join(neg_path, neg_utter_path[1])    path1.append(path1_neg_file_path)    path2_pos_file_path = os.path.join(pos_path, pos_utter_path[2])    path2.append(path2_pos_file_path)    path2_neg_file_path = os.path.join(neg_path, neg_utter_path[2])    path2.append(path2_neg_file_path)    path3_pos_file_path = os.path.join(pos_path, pos_utter_path[3])    path3.append(path3_pos_file_path)    path3_neg_file_path = os.path.join(neg_path, neg_utter_path[3])    path3.append(path3_neg_file_path)    path0_pos_file_path = os.path.join(pos_path, pos_utter_path[4])    path0.append(path0_pos_file_path)    path0_neg_file_path = os.path.join(neg_path, neg_utter_path[4])    path0.append(path0_neg_file_path)    path0_pos_file_path = os.path.join(pos_path, pos_utter_path[5])    path0.append(path0_pos_file_path)    path0_neg_file_path = os.path.join(neg_path, neg_utter_path[5])    path0.append(path0_neg_file_path)    path0_pos_file_path = os.path.join(pos_path, pos_utter_path[6])    path0.append(path0_pos_file_pat&#39;&#39;&#39;</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="Deep learning" scheme="http://example.com/categories/Deep-learning/"/>
+    
+    
+    <category term="speech" scheme="http://example.com/tags/speech/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MS-Loss</title>
+    <link href="http://example.com/2020/10/11/MultiLoss/"/>
+    <id>http://example.com/2020/10/11/MultiLoss/</id>
+    <published>2020-10-10T16:26:17.000Z</published>
+    <updated>2020-10-13T16:16:28.399Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="ms-loss的实现"><a href="#ms-loss的实现" class="headerlink" title="ms-loss的实现"></a>ms-loss的实现</h1><hr><h2 id="多重相似性-Multiple-Similarities"><a href="#多重相似性-Multiple-Similarities" class="headerlink" title="多重相似性(Multiple Similarities)"></a>多重相似性(Multiple Similarities)</h2><p><img src="https://pic4.zhimg.com/80/v2-b40a55dc4cf29ae5cb433c189a55aaff_720w.jpg" alt="avatar"></p><p>S：Self-similarity：从自身对计算而来，是最重要的相似性。一个反例对有一个更大的余弦相似对意味着从不同的类别中区分两对样例是更困难的。这样的对被视为硬反例对(hard negative pairs),他们有更多的信息并且更有意义去学习一个可区分的特征。Contrastive loss和Binomial Deviance Loss就是基于这个准则，如图case-1，当反例样例变得更近的时候，三个反例对的权重是被增加的。</p><p>N: Negative relative similarity：通过考虑附近反例对的关系计算而来的，如图case-2，即使自相似度(self-similarity)不变，相对相似度也减少。这是因为附近的反例样例变得更近，增加了这些对的自相似度(self-similarity)，所以减少了相对相似度。Lifted Structure Loss就是基于这个的。</p><p>P：Positive relative similarity：相对相似度也考虑其他的正例对的关系，如果case-3，当这些正例样例变得和anchor更近的时候，当前对的相对相似度就变小了，因此该对的权重也变小。Triplet loss就是基于这个相似度。  </p><h2 id="MS公式："><a href="#MS公式：" class="headerlink" title="MS公式："></a>MS公式：</h2><hr><p><img src="https://www.zhihu.com/equation?tex=%5Cmathcal%7BL%7D_%7BMS%7D=%5Cfrac%7B1%7D%7Bm%7D+%5Csum_%7Bi=1%7D%5Em+%5Cleft%5C%7B+%5Cfrac%7B1%7D%7B%5Calpha%7D+++++++++%5Clog%5B1+%5Csum_%7Bk%5Cin%5Cmathcal%7BP_i%7D%7De%5E%7B-%5Calpha(S_%7Bik%7D-%5Clambda)%7D%5D++%5Cfrac%7B1%7D%7B%5Cbeta%7D++++++++%5Clog%5B1+%5Csum_%7Bk%5Cin%5Cmathcal%7BN_i%7D%7De%5E%7B%5Cbeta(S_%7Bik%7D-%5Clambda)%7D%5D+%5Cright%5C%7D.%5Ctag%7B15%7D" alt="avatar"></p><h2 id="难例挖掘"><a href="#难例挖掘" class="headerlink" title="难例挖掘"></a>难例挖掘</h2><p>多重相似度损失论文的作者在训练中只使用了困难的负样本和正样本，并丢弃了所有其他的样本对，因为它们对效果的提升几乎没有贡献，有时也降低了性能。只选择那些携带最多信息的对也会使算法的计算速度更快。<br><img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9LWVNEVG1PVlp2clpHRXljM2FRME9YMmljaWFDck84RzlLUjBmazhSVUZJS1VFbFJSNjVmTEhqeTdFV3ZNRkV2VDZxVm1aMGtRVFRHaWFpYU94Qlc2V3BpYk93LzY0MA?x-oss-process=image/format,png" alt="avatar"><br>1.困难负样本挖掘</p><p><img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9LWVNEVG1PVlp2clpHRXljM2FRME9YMmljaWFDck84RzlLWDJwZGljV2hXanhWMTdSMEdtcDl3TDFkS24xOENqZXVmS3dZUERPcXMwMm9uaExxTkJ1dDhLUS82NDA?x-oss-process=image/format,png" alt="avatar"><br>上面的式子表明只有那些与anchor点相似度大于正样本点最小相似度的负样本才应该包含在训练中。因此，在上面的图表中，我们所选择的是红色的负样本，因为它们都在与anchor的相似性最小的正样本的内部，其余的负样本都被丢弃。</p><p>2.困难正样本挖掘</p><p><img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9LWVNEVG1PVlp2clpHRXljM2FRME9YMmljaWFDck84RzlLTWlieXJYNzdDYzVmQVFDNTFxTTVkaHNMODByaWFuTmZFaDRpYkdzNENhZXg4TWxLc3Q2cE16ZGljQS82NDA?x-oss-process=image/format,png" alt="avatar"><br>上面的式子表明，只有那些与anchor点相似度小于具有最大相似度(最接近anchor点)的负样本点的正样本点才应该被包括在训练中。困难的正样本被涂成蓝色，其余的则被丢弃。</p><h2 id="代码实现"><a href="#代码实现" class="headerlink" title="代码实现"></a>代码实现</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br></pre></td><td class="code"><pre><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">MultiSimilarityLoss</span>(<span class="params">keras.layers.Layer</span>):</span></span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">__init__</span>(<span class="params">self, cfg</span>):</span></span><br><span class="line">    super(MultiSimilarityLoss, self).__init__()</span><br><span class="line">    self.thresh = <span class="number">0.</span>  <span class="comment"># lambda</span></span><br><span class="line">    self.margin = <span class="number">0.1</span></span><br><span class="line"></span><br><span class="line">    self.scale_pos = cfg.LOSSES.MULTI_SIMILARITY_LOSS.SCALE_POS  <span class="comment"># 公式中的alpha</span></span><br><span class="line">    self.scale_neg = cfg.LOSSES.MULTI_SIMILARITY_LOSS.SCALE_NEG  <span class="comment"># 公式中的beta</span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">forward</span>(<span class="params">self, feats, labels</span>):</span></span><br><span class="line">    <span class="comment"># feats = 从声纹中提取的特征</span></span><br><span class="line">    <span class="comment"># labels=相对应的基本真实类</span></span><br><span class="line">    batch_size = feats.size(<span class="number">0</span>)</span><br><span class="line">    sim_mat = tf.matmul(feats, tf.transpose(feats))</span><br><span class="line">    <span class="comment"># 把与自身的转置的点积得到一个相似矩阵</span></span><br><span class="line">    epsilon = <span class="number">1e-5</span></span><br><span class="line">    loss = list()</span><br><span class="line"></span><br><span class="line">    <span class="keyword">for</span> i <span class="keyword">in</span> range(batch_size):</span><br><span class="line">        <span class="comment"># i&#x27;th embedding is the anchor</span></span><br><span class="line">        pos_pair_ = sim_mat[i][labels == labels[i]]</span><br><span class="line">        <span class="comment"># 只需匹配与锚定共享同一标签的嵌入物的基本真值标签，即可得到所有正对</span></span><br><span class="line">        pos_pair_ = pos_pair_[pos_pair_ &lt; <span class="number">1</span> - epsilon]</span><br><span class="line">        neg_pair_ = sim_mat[i][labels != labels[i]]</span><br><span class="line">        <span class="comment"># 所有与锚不共享同一地面真实标签的负嵌入物</span></span><br><span class="line">        neg_pair = neg_pair_[neg_pair_ + self.margin &gt; min(pos_pair_)]</span><br><span class="line">        pos_pair = pos_pair_[pos_pair_ - self.margin &lt; max(neg_pair_)]</span><br><span class="line"></span><br><span class="line">        <span class="keyword">if</span> len(neg_pair) &lt; <span class="number">1</span> <span class="keyword">or</span> len(pos_pair) &lt; <span class="number">1</span>:</span><br><span class="line">            <span class="keyword">continue</span></span><br><span class="line">        <span class="comment"># 同时有难正和难负才继续计算loss</span></span><br><span class="line"></span><br><span class="line">        <span class="comment"># weighting step</span></span><br><span class="line">        pos_loss = <span class="number">1.0</span> / self.scale_pos * tf.math.log(</span><br><span class="line">            <span class="number">1</span> + tf.sum(tf.exp(-self.scale_pos * (pos_pair - self.thresh))))</span><br><span class="line">        neg_loss = <span class="number">1.0</span> / self.scale_neg * tf.math.log(</span><br><span class="line">            <span class="number">1</span> + tf.sum(tf.exp(self.scale_neg * (neg_pair - self.thresh))))</span><br><span class="line">        loss.append(pos_loss + neg_loss)</span><br><span class="line"></span><br><span class="line">    <span class="keyword">if</span> len(loss) == <span class="number">0</span>:</span><br><span class="line">        <span class="keyword">return</span> tf.zeros([], requires_grad=<span class="literal">True</span>)</span><br><span class="line"></span><br><span class="line">    loss = sum(loss) / batch_size</span><br><span class="line">    <span class="keyword">return</span> loss</span><br></pre></td></tr></table></figure><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>本文主要是提出了一个统一的框架(GPW)去度量每一个基于对的损失函数，然后提出了一个逐对挖掘(pair mining)和软加权(pair weighting)的损失函数。其中的pair mining和目标检测中的hard sample mining很像，pair weighting和focal loss中软加权很像，</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="Deep learning" scheme="http://example.com/categories/Deep-learning/"/>
+    
+    
+    <category term="speech" scheme="http://example.com/tags/speech/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>specch verification</title>
+    <link href="http://example.com/2020/10/09/specch-verification/"/>
+    <id>http://example.com/2020/10/09/specch-verification/</id>
+    <published>2020-10-09T13:51:48.000Z</published>
+    <updated>2020-10-09T13:53:28.075Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="科研平台"><a href="#科研平台" class="headerlink" title="科研平台"></a>科研平台</h1><hr><p><a href="https://222.31.96.7/">VPN访问：</a></p><p><a href="http://aicloud.cuc.edu.cn:3001/">校园网：</a></p><p><a href="https://blog.csdn.net/qq_40767896/article/details/86291664">免费的中文语音数据集汇总列表</a></p><p><a href="https://blog.ailemon.me/2018/11/21/free-open-source-chinese-speech-datasets/">几个最新免费开源的中文语音数据集</a></p><p><a href="https://blog.csdn.net/Yogaht/article/details/85065181">语音识别之语音数据预处理</a></p><p><a href="https://www.pianshen.com/article/8272677915/#_Toc21031027">语音数据集整理</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>写在开头</title>
+    <link href="http://example.com/2020/10/09/hello-world/"/>
+    <id>http://example.com/2020/10/09/hello-world/</id>
+    <published>2020-10-09T11:57:27.433Z</published>
+    <updated>2020-10-17T09:14:34.093Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Welcome to <a href="https://jurassic.cool/">侏罗纪小屋</a>! </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>markedown</title>
+    <link href="http://example.com/2020/10/08/markdown/"/>
+    <id>http://example.com/2020/10/08/markdown/</id>
+    <published>2020-10-08T08:41:38.000Z</published>
+    <updated>2020-10-09T06:19:00.983Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="Markdown学习经历"><a href="#Markdown学习经历" class="headerlink" title="Markdown学习经历"></a>Markdown学习经历</h1><hr><h2 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h2><hr><h3 id="1-基本语法"><a href="#1-基本语法" class="headerlink" title="1.基本语法"></a>1.基本语法</h3><h4 id="1-1-字体设置斜体、粗体、删除线"><a href="#1-1-字体设置斜体、粗体、删除线" class="headerlink" title="1.1 字体设置斜体、粗体、删除线"></a>1.1 字体设置斜体、粗体、删除线</h4><pre><code>&#39;&#39;&#39;斜体*这里是文字* _这里是文字_&#39;&#39;&#39;  </code></pre><p><em>文字</em><br><em>文字</em>  </p><pre><code>&#39;&#39;&#39;加粗**这里是文字**倾斜加粗***这里是文字***&#39;&#39;&#39;</code></pre><p><strong><em>文字</em></strong></p><pre><code>&#39;&#39;&#39;删除线~~这里是文字~~&#39;&#39;&#39;</code></pre><p><del>文字</del></p><h4 id="1-2-分级标题"><a href="#1-2-分级标题" class="headerlink" title="1.2 分级标题"></a>1.2 分级标题</h4><h5 id="写法1："><a href="#写法1：" class="headerlink" title="写法1："></a>写法1：</h5><pre><code>&#39;&#39;&#39;int 1# 一级标题## 二级标题### 三级标题#### 四级标题##### 五级标题###### 六级标题  &#39;&#39;&#39;</code></pre><p>这个写法和 <strong>文字</strong>效果是一样的</p><h6 id="写法2："><a href="#写法2：" class="headerlink" title="写法2："></a>写法2：</h6><pre><code>这是一个一级标题============================</code></pre><p>或者</p><pre><code>二级标题- - - - - - - - - - - - - -</code></pre><h4 id="1-3-链接"><a href="#1-3-链接" class="headerlink" title="1.3 链接"></a>1.3 链接</h4><h5 id="1-自动链接"><a href="#1-自动链接" class="headerlink" title="1.自动链接"></a>1.自动链接</h5><p><a href="https://jurassic.cool/">https://jurassic.cool</a></p><pre><code> &lt;https://jurassic.cool&gt;</code></pre><h5 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h5><h4 id="1-4-分割线"><a href="#1-4-分割线" class="headerlink" title="1.4 分割线"></a>1.4 分割线</h4><pre><code>-----</code></pre><h4 id="1-5-代码块"><a href="#1-5-代码块" class="headerlink" title="1.5 代码块"></a>1.5 代码块</h4><ul><li>按一个tap缩进 </li></ul><p>如下</p><pre><code>print(tf.__version__)print(sys.version_info)</code></pre><h4 id="1-6-引用"><a href="#1-6-引用" class="headerlink" title="1.6 引用"></a>1.6 引用</h4><pre><code>&gt;这是一段引用</code></pre><blockquote><p>这是一段引用</p></blockquote><h4 id="1-7-表格"><a href="#1-7-表格" class="headerlink" title="1.7 表格"></a>1.7 表格</h4><p>实列：</p><pre><code>|商品|数量|单价||-|-------:|:------:||苹果|10|\$1||电脑|1|\$1000|</code></pre><p>第二行设置表格格式</p><ul><li>居中</li><li>左对齐</li><li>右对齐</li></ul><table><thead><tr><th>商品</th><th align="center">数量</th><th align="center">单价</th></tr></thead><tbody><tr><td>苹果</td><td align="center">10</td><td align="center">$1</td></tr><tr><td>电脑</td><td align="center">1</td><td align="center">$1000</td></tr></tbody></table><h4 id="1-8流程图"><a href="#1-8流程图" class="headerlink" title="1.8流程图"></a>1.8流程图</h4><pre><code>主要的语法为 name=&gt;type: describe，其中 type 主要有以下几种：1.开始和结束：start end2.输入输出：inputoutput3.操作：operation4.条件：condition5.子程序：subroutine</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
