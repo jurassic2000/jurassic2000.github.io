@@ -1,7 +1,7 @@
 $(function () {
   const openSearch = () => {
     $('body').css({ width: '100%', overflow: 'hidden' })
-    $('#algolia-search .search-dialog').css('display', 'block')
+    $('#algolia-search').css('display', 'block')
     $('.ais-search-box--input').focus()
     $('#search-mask').fadeIn()
     // shortcut: ESC
@@ -15,12 +15,12 @@ $(function () {
 
   const closeSearch = () => {
     $('body').css({ width: '', overflow: '' })
-    $('#algolia-search .search-dialog').css({
+    $('#algolia-search').css({
       animation: 'search_close .5s'
     })
 
     setTimeout(function () {
-      $('#algolia-search .search-dialog').css({
+      $('#algolia-search').css({
         animation: '',
         display: 'none'
       })
@@ -36,7 +36,7 @@ $(function () {
 
   searchClickFn()
 
-  window.addEventListener('pjax:complete', function () {
+  window.addEventListener('pjax:success', function () {
     closeSearch()
     searchClickFn()
   })

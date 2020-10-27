@@ -5,7 +5,7 @@ $(function () {
       width: '100%',
       overflow: 'hidden'
     })
-    $('#local-search .search-dialog').css('display', 'block')
+    $('#local-search').css('display', 'block')
     $('#local-search-input input').focus()
     $('#search-mask').fadeIn()
     if (!loadFlag) {
@@ -27,12 +27,12 @@ $(function () {
       width: '',
       overflow: ''
     })
-    $('#local-search .search-dialog').css({
+    $('#local-search').css({
       animation: 'search_close .5s'
     })
 
     setTimeout(function () {
-      $('#local-search .search-dialog').css({
+      $('#local-search').css({
         animation: '',
         display: 'none'
       })
@@ -47,9 +47,8 @@ $(function () {
   }
 
   searchClickFn()
-
-  window.addEventListener('pjax:complete', function () {
-    $('#local-search .search-dialog').is(':visible') && closeSearch()
+  window.addEventListener('pjax:success', function () {
+    $('#local-search').is(':visible') && closeSearch()
     searchClickFn()
   })
 
