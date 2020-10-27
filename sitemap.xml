@@ -2,105 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2020/10/27/Listening%20Practice1/</loc>
+    <loc>http://jurassic.cool/font5/index.html</loc>
     
     <lastmod>2020-10-27</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/playlist/index.html</loc>
+    <loc>http://jurassic.cool/2020/10/27/Listening%20Practice1/</loc>
+    
+    <lastmod>2020-10-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jurassic.cool/playlist/index.html</loc>
     
     <lastmod>2020-10-25</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2020/10/24/%E4%BF%A1%E6%81%AF%E8%AE%BA2/</loc>
+    <loc>http://jurassic.cool/2020/10/24/%E4%BF%A1%E6%81%AF%E8%AE%BA2/</loc>
     
     <lastmod>2020-10-25</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2020/10/24/%E4%BF%A1%E6%81%AF%E8%AE%BA/</loc>
+    <loc>http://jurassic.cool/2020/10/24/%E4%BF%A1%E6%81%AF%E8%AE%BA/</loc>
     
     <lastmod>2020-10-24</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2020/10/19/tensorflow-%E6%8C%87%E5%AE%9A-GPU/</loc>
+    <loc>http://jurassic.cool/2020/10/19/tensorflow-%E6%8C%87%E5%AE%9A-GPU/</loc>
     
     <lastmod>2020-10-19</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2020/10/09/hello-world/</loc>
+    <loc>http://jurassic.cool/2020/10/09/hello-world/</loc>
     
     <lastmod>2020-10-17</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2020/10/17/diancichang/</loc>
+    <loc>http://jurassic.cool/2020/10/17/diancichang/</loc>
     
     <lastmod>2020-10-17</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2020/10/14/mini-batch/</loc>
+    <loc>http://jurassic.cool/2020/10/14/mini-batch/</loc>
     
     <lastmod>2020-10-16</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2020/10/11/MultiLoss/</loc>
+    <loc>http://jurassic.cool/2020/10/11/MultiLoss/</loc>
     
     <lastmod>2020-10-13</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://jurassic.cool/tags/index.html</loc>
     
     <lastmod>2020-10-10</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://jurassic.cool/categories/index.html</loc>
     
     <lastmod>2020-10-10</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>http://jurassic.cool/about/index.html</loc>
     
     <lastmod>2020-10-10</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/resources/index.html</loc>
+    <loc>http://jurassic.cool/resources/index.html</loc>
     
     <lastmod>2020-10-09</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2020/10/09/specch-verification/</loc>
+    <loc>http://jurassic.cool/2020/10/09/specch-verification/</loc>
     
     <lastmod>2020-10-09</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2020/10/08/markdown/</loc>
+    <loc>http://jurassic.cool/2020/10/08/markdown/</loc>
     
     <lastmod>2020-10-09</lastmod>
     
@@ -108,7 +115,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://jurassic.cool/</loc>
     <lastmod>2020-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -116,42 +123,42 @@
 
   
   <url>
-    <loc>http://example.com/tags/English/</loc>
+    <loc>http://jurassic.cool/tags/English/</loc>
     <lastmod>2020-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/Listen/</loc>
+    <loc>http://jurassic.cool/tags/Listen/</loc>
     <lastmod>2020-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E7%94%B5%E7%A3%81%E5%9C%BA/</loc>
+    <loc>http://jurassic.cool/tags/%E7%94%B5%E7%A3%81%E5%9C%BA/</loc>
     <lastmod>2020-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/speech/</loc>
+    <loc>http://jurassic.cool/tags/speech/</loc>
     <lastmod>2020-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E4%BF%A1%E6%81%AF%E8%AE%BA6-9/</loc>
+    <loc>http://jurassic.cool/tags/%E4%BF%A1%E6%81%AF%E8%AE%BA1-3/</loc>
     <lastmod>2020-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E4%BF%A1%E6%81%AF%E8%AE%BA1-3/</loc>
+    <loc>http://jurassic.cool/tags/%E4%BF%A1%E6%81%AF%E8%AE%BA6-9/</loc>
     <lastmod>2020-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -160,28 +167,28 @@
 
   
   <url>
-    <loc>http://example.com/categories/Listening/</loc>
+    <loc>http://jurassic.cool/categories/Listening/</loc>
     <lastmod>2020-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E7%94%B5%E7%A3%81%E5%9C%BA/</loc>
+    <loc>http://jurassic.cool/categories/%E7%94%B5%E7%A3%81%E5%9C%BA/</loc>
     <lastmod>2020-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/Deep-learning/</loc>
+    <loc>http://jurassic.cool/categories/Deep-learning/</loc>
     <lastmod>2020-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E4%BF%A1%E6%81%AF%E8%AE%BA/</loc>
+    <loc>http://jurassic.cool/categories/%E4%BF%A1%E6%81%AF%E8%AE%BA/</loc>
     <lastmod>2020-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
