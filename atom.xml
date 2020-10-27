@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-10-27T07:58:23.260Z</updated>
+  <updated>2020-10-27T08:00:44.206Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2020/10/27/Listening%20Practice1/"/>
     <id>http://example.com/2020/10/27/Listening%20Practice1/</id>
     <published>2020-10-27T07:47:03.000Z</published>
-    <updated>2020-10-27T07:58:23.260Z</updated>
+    <updated>2020-10-27T08:00:44.206Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>PRACTICE_1</p><iframe height=498 width=510 src="[视频地址](https://www.bilibili.com/video/BV1th411o7PH/)" frameborder=0 allowfullscreen></iframe>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>PRACTICE_1</p><iframe height=498 width=510 src="https://www.bilibili.com/video/BV1th411o7PH/" frameborder=0 allowfullscreen></iframe>]]></content>
     
     
       
