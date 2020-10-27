@@ -116,13 +116,6 @@
 
   
   <url>
-    <loc>http://example.com/tags/speech/</loc>
-    <lastmod>2020-10-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/English/</loc>
     <lastmod>2020-10-27</lastmod>
     <changefreq>daily</changefreq>
@@ -131,6 +124,13 @@
   
   <url>
     <loc>http://example.com/tags/Listen/</loc>
+    <lastmod>2020-10-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/speech/</loc>
     <lastmod>2020-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -160,14 +160,14 @@
 
   
   <url>
-    <loc>http://example.com/categories/Deep-learning/</loc>
+    <loc>http://example.com/categories/Listening/</loc>
     <lastmod>2020-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/Listening/</loc>
+    <loc>http://example.com/categories/Deep-learning/</loc>
     <lastmod>2020-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
