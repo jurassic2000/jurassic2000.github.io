@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://jurassic.cool/link/butterfly.json</loc>
+    
+    <lastmod>2020-11-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jurassic.cool/link/index.html</loc>
+    
+    <lastmod>2020-11-03</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://jurassic.cool/2020/10/31/%E4%BF%A1%E6%81%AF%E8%AE%BA%E5%A4%8D%E4%B9%A0/</loc>
     
     <lastmod>2020-10-31</lastmod>
@@ -94,6 +108,13 @@
   
   <url>
     <loc>http://jurassic.cool/about/index.html</loc>
+    
+    <lastmod>2020-10-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jurassic.cool/shuoshuo/index.html</loc>
     
     <lastmod>2020-10-10</lastmod>
     
