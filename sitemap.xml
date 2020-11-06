@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://jurassic.cool/link/index.html</loc>
+    
+    <lastmod>2020-11-06</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://jurassic.cool/messageboard/index.html</loc>
     
     <lastmod>2020-11-06</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://jurassic.cool/link/butterfly.json</loc>
     
     <lastmod>2020-11-06</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jurassic.cool/link/index.html</loc>
-    
-    <lastmod>2020-11-03</lastmod>
     
   </url>
   

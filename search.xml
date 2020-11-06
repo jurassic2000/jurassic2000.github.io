@@ -39,12 +39,6 @@
       </tags>
   </entry>
   <entry>
-    <title>写在开头</title>
-    <url>/2020/10/09/hello-world/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Welcome to <a href="https://jurassic.cool/">侏罗纪小屋</a>! </p>
-]]></content>
-  </entry>
-  <entry>
     <title>电磁场的基本规律</title>
     <url>/2020/10/17/diancichang/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="一·电荷守恒定律"><a href="#一·电荷守恒定律" class="headerlink" title="一·电荷守恒定律"></a>一·电荷守恒定律</h1><ol>
@@ -191,6 +185,12 @@
       </tags>
   </entry>
   <entry>
+    <title>写在开头</title>
+    <url>/2020/10/09/hello-world/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Welcome to <a href="https://jurassic.cool/">侏罗纪小屋</a>! </p>
+]]></content>
+  </entry>
+  <entry>
     <title>markedown</title>
     <url>/2020/10/08/markdown/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="Markdown学习经历"><a href="#Markdown学习经历" class="headerlink" title="Markdown学习经历"></a>Markdown学习经历</h1><hr>
@@ -280,28 +280,6 @@ print(sys.version_info)</code></pre>
 ]]></content>
   </entry>
   <entry>
-    <title>离散信源、信道</title>
-    <url>/2020/10/24/%E4%BF%A1%E6%81%AF%E8%AE%BA/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="一·绪论"><a href="#一·绪论" class="headerlink" title="一·绪论"></a>一·绪论</h1><h2 id="1-信息"><a href="#1-信息" class="headerlink" title="1.信息"></a>1.信息</h2><ol>
-<li>信息与消息、信号的区别</li>
-<li>自信息</li>
-<li>互信息</li>
-</ol>
-<h2 id="2-系统模型"><a href="#2-系统模型" class="headerlink" title="2.系统模型"></a>2.系统模型</h2><p>信源 -&gt; 编码器 -&gt; 信道 -&gt; 译码器 -&gt; 信宿</p>
-<h2 id="3-研究内容"><a href="#3-研究内容" class="headerlink" title="3. 研究内容"></a>3. 研究内容</h2><h2 id="4-形成和发展"><a href="#4-形成和发展" class="headerlink" title="4. 形成和发展"></a>4. 形成和发展</h2><h1 id="二·-离散信源及信息测度"><a href="#二·-离散信源及信息测度" class="headerlink" title="二· 离散信源及信息测度"></a>二· 离散信源及信息测度</h1><h2 id="信源"><a href="#信源" class="headerlink" title="信源"></a>信源</h2><p>  信息的来源<br>  研究信源产生消息的不确定性</p>
-<ol>
-<li>信源的数学模型 </li>
-</ol>
-<h1 id="三·离散信道及信道容量"><a href="#三·离散信道及信道容量" class="headerlink" title="三·离散信道及信道容量"></a>三·离散信道及信道容量</h1><h2 id="下次一定"><a href="#下次一定" class="headerlink" title="下次一定  "></a>下次一定  </h2><hr>
-<h2 id="未完待续"><a href="#未完待续" class="headerlink" title="未完待续"></a>未完待续</h2>]]></content>
-      <categories>
-        <category>信息论</category>
-      </categories>
-      <tags>
-        <tag>信息论1-3</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>mini_batch</title>
     <url>/2020/10/14/mini-batch/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="采样"><a href="#采样" class="headerlink" title="采样"></a>采样</h1><p>我气死了</p>
@@ -355,11 +333,6 @@ print(sys.version_info)</code></pre>
       </tags>
   </entry>
   <entry>
-    <title>tensorflow 指定 GPU</title>
-    <url>/2020/10/19/tensorflow-%E6%8C%87%E5%AE%9A-GPU/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
-  </entry>
-  <entry>
     <title>specch verification</title>
     <url>/2020/10/09/specch-verification/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="科研平台"><a href="#科研平台" class="headerlink" title="科研平台"></a>科研平台</h1><hr>
@@ -370,6 +343,33 @@ print(sys.version_info)</code></pre>
 <p><a href="https://blog.csdn.net/Yogaht/article/details/85065181">语音识别之语音数据预处理</a></p>
 <p><a href="https://www.pianshen.com/article/8272677915/#_Toc21031027">语音数据集整理</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>tensorflow 指定 GPU</title>
+    <url>/2020/10/19/tensorflow-%E6%8C%87%E5%AE%9A-GPU/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
+  </entry>
+  <entry>
+    <title>离散信源、信道</title>
+    <url>/2020/10/24/%E4%BF%A1%E6%81%AF%E8%AE%BA/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="一·绪论"><a href="#一·绪论" class="headerlink" title="一·绪论"></a>一·绪论</h1><h2 id="1-信息"><a href="#1-信息" class="headerlink" title="1.信息"></a>1.信息</h2><ol>
+<li>信息与消息、信号的区别</li>
+<li>自信息</li>
+<li>互信息</li>
+</ol>
+<h2 id="2-系统模型"><a href="#2-系统模型" class="headerlink" title="2.系统模型"></a>2.系统模型</h2><p>信源 -&gt; 编码器 -&gt; 信道 -&gt; 译码器 -&gt; 信宿</p>
+<h2 id="3-研究内容"><a href="#3-研究内容" class="headerlink" title="3. 研究内容"></a>3. 研究内容</h2><h2 id="4-形成和发展"><a href="#4-形成和发展" class="headerlink" title="4. 形成和发展"></a>4. 形成和发展</h2><h1 id="二·-离散信源及信息测度"><a href="#二·-离散信源及信息测度" class="headerlink" title="二· 离散信源及信息测度"></a>二· 离散信源及信息测度</h1><h2 id="信源"><a href="#信源" class="headerlink" title="信源"></a>信源</h2><p>  信息的来源<br>  研究信源产生消息的不确定性</p>
+<ol>
+<li>信源的数学模型 </li>
+</ol>
+<h1 id="三·离散信道及信道容量"><a href="#三·离散信道及信道容量" class="headerlink" title="三·离散信道及信道容量"></a>三·离散信道及信道容量</h1><h2 id="下次一定"><a href="#下次一定" class="headerlink" title="下次一定  "></a>下次一定  </h2><hr>
+<h2 id="未完待续"><a href="#未完待续" class="headerlink" title="未完待续"></a>未完待续</h2>]]></content>
+      <categories>
+        <category>信息论</category>
+      </categories>
+      <tags>
+        <tag>信息论1-3</tag>
+      </tags>
   </entry>
   <entry>
     <title>信道编码</title>
