@@ -4,14 +4,14 @@
   <url>
     <loc>http://jurassic.cool/2020/10/09/hello-world/</loc>
     
-    <lastmod>2020-11-03</lastmod>
+    <lastmod>2020-11-06</lastmod>
     
   </url>
   
   <url>
     <loc>http://jurassic.cool/link/butterfly.json</loc>
     
-    <lastmod>2020-11-03</lastmod>
+    <lastmod>2020-11-06</lastmod>
     
   </url>
   
@@ -144,7 +144,7 @@
 
   <url>
     <loc>http://jurassic.cool/</loc>
-    <lastmod>2020-11-03</lastmod>
+    <lastmod>2020-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -152,49 +152,49 @@
   
   <url>
     <loc>http://jurassic.cool/tags/English/</loc>
-    <lastmod>2020-11-03</lastmod>
+    <lastmod>2020-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://jurassic.cool/tags/Listen/</loc>
-    <lastmod>2020-11-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://jurassic.cool/tags/speech/</loc>
-    <lastmod>2020-11-03</lastmod>
+    <lastmod>2020-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://jurassic.cool/tags/%E7%94%B5%E7%A3%81%E5%9C%BA/</loc>
-    <lastmod>2020-11-03</lastmod>
+    <lastmod>2020-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://jurassic.cool/tags/%E4%BF%A1%E6%81%AF%E8%AE%BA/</loc>
-    <lastmod>2020-11-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://jurassic.cool/tags/%E4%BF%A1%E6%81%AF%E8%AE%BA6-9/</loc>
-    <lastmod>2020-11-03</lastmod>
+    <loc>http://jurassic.cool/tags/speech/</loc>
+    <lastmod>2020-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://jurassic.cool/tags/%E4%BF%A1%E6%81%AF%E8%AE%BA1-3/</loc>
-    <lastmod>2020-11-03</lastmod>
+    <lastmod>2020-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://jurassic.cool/tags/%E4%BF%A1%E6%81%AF%E8%AE%BA/</loc>
+    <lastmod>2020-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://jurassic.cool/tags/%E4%BF%A1%E6%81%AF%E8%AE%BA6-9/</loc>
+    <lastmod>2020-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -203,28 +203,28 @@
   
   <url>
     <loc>http://jurassic.cool/categories/Listening/</loc>
-    <lastmod>2020-11-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://jurassic.cool/categories/Deep-learning/</loc>
-    <lastmod>2020-11-03</lastmod>
+    <lastmod>2020-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://jurassic.cool/categories/%E7%94%B5%E7%A3%81%E5%9C%BA/</loc>
-    <lastmod>2020-11-03</lastmod>
+    <lastmod>2020-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://jurassic.cool/categories/Deep-learning/</loc>
+    <lastmod>2020-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://jurassic.cool/categories/%E4%BF%A1%E6%81%AF%E8%AE%BA/</loc>
-    <lastmod>2020-11-03</lastmod>
+    <lastmod>2020-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
