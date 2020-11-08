@@ -39,95 +39,6 @@
       </tags>
   </entry>
   <entry>
-    <title>markedown</title>
-    <url>/2020/10/08/markdown/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="Markdown学习经历"><a href="#Markdown学习经历" class="headerlink" title="Markdown学习经历"></a>Markdown学习经历</h1><hr>
-<h2 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h2><hr>
-<h3 id="1-基本语法"><a href="#1-基本语法" class="headerlink" title="1.基本语法"></a>1.基本语法</h3><h4 id="1-1-字体设置斜体、粗体、删除线"><a href="#1-1-字体设置斜体、粗体、删除线" class="headerlink" title="1.1 字体设置斜体、粗体、删除线"></a>1.1 字体设置斜体、粗体、删除线</h4><pre><code>&#39;&#39;&#39;
-斜体
-*这里是文字* 
-_这里是文字_
-&#39;&#39;&#39;  </code></pre>
-<p><em>文字</em><br><em>文字</em>  </p>
-<pre><code>&#39;&#39;&#39;
-加粗
-**这里是文字**
-倾斜加粗
-***这里是文字***
-&#39;&#39;&#39;</code></pre>
-<p><strong><em>文字</em></strong></p>
-<pre><code>&#39;&#39;&#39;
-删除线
-~~这里是文字~~
-&#39;&#39;&#39;</code></pre>
-<p><del>文字</del></p>
-<h4 id="1-2-分级标题"><a href="#1-2-分级标题" class="headerlink" title="1.2 分级标题"></a>1.2 分级标题</h4><h5 id="写法1："><a href="#写法1：" class="headerlink" title="写法1："></a>写法1：</h5><pre><code>&#39;&#39;&#39;
-int 1
-# 一级标题
-## 二级标题
-### 三级标题
-#### 四级标题
-##### 五级标题
-###### 六级标题  
-&#39;&#39;&#39;</code></pre>
-<p>这个写法和 <strong>文字</strong>效果是一样的</p>
-<h6 id="写法2："><a href="#写法2：" class="headerlink" title="写法2："></a>写法2：</h6><pre><code>这是一个一级标题
-============================</code></pre>
-<p>或者</p>
-<pre><code>二级标题
-- - - - - - - - - - - - - -</code></pre>
-<h4 id="1-3-链接"><a href="#1-3-链接" class="headerlink" title="1.3 链接"></a>1.3 链接</h4><h5 id="1-自动链接"><a href="#1-自动链接" class="headerlink" title="1.自动链接"></a>1.自动链接</h5><p><a href="https://jurassic.cool/">https://jurassic.cool</a></p>
-<pre><code> &lt;https://jurassic.cool&gt;</code></pre>
-<h5 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h5><h4 id="1-4-分割线"><a href="#1-4-分割线" class="headerlink" title="1.4 分割线"></a>1.4 分割线</h4><pre><code>-----</code></pre>
-<h4 id="1-5-代码块"><a href="#1-5-代码块" class="headerlink" title="1.5 代码块"></a>1.5 代码块</h4><ul>
-<li>按一个tap缩进 </li>
-</ul>
-<p>如下</p>
-<pre><code>print(tf.__version__)
-print(sys.version_info)</code></pre>
-<h4 id="1-6-引用"><a href="#1-6-引用" class="headerlink" title="1.6 引用"></a>1.6 引用</h4><pre><code>&gt;这是一段引用</code></pre>
-<blockquote>
-<p>这是一段引用</p>
-</blockquote>
-<h4 id="1-7-表格"><a href="#1-7-表格" class="headerlink" title="1.7 表格"></a>1.7 表格</h4><p>实列：</p>
-<pre><code>|商品|数量|单价|
-|-|-------:|:------:|
-|苹果|10|\$1|
-|电脑|1|\$1000|</code></pre>
-<p>第二行设置表格格式</p>
-<ul>
-<li>居中</li>
-<li>左对齐</li>
-<li>右对齐</li>
-</ul>
-<table>
-<thead>
-<tr>
-<th>商品</th>
-<th align="center">数量</th>
-<th align="center">单价</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>苹果</td>
-<td align="center">10</td>
-<td align="center">$1</td>
-</tr>
-<tr>
-<td>电脑</td>
-<td align="center">1</td>
-<td align="center">$1000</td>
-</tr>
-</tbody></table>
-<h4 id="1-8流程图"><a href="#1-8流程图" class="headerlink" title="1.8流程图"></a>1.8流程图</h4><pre><code>主要的语法为 name=&gt;type: describe，其中 type 主要有以下几种：
-1.开始和结束：start end
-2.输入输出：inputoutput
-3.操作：operation
-4.条件：condition
-5.子程序：subroutine</code></pre>
-]]></content>
-  </entry>
-  <entry>
     <title>电磁场的基本规律</title>
     <url>/2020/10/17/diancichang/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="一·电荷守恒定律"><a href="#一·电荷守恒定律" class="headerlink" title="一·电荷守恒定律"></a>一·电荷守恒定律</h1><ol>
@@ -280,6 +191,95 @@ print(sys.version_info)</code></pre>
 ]]></content>
   </entry>
   <entry>
+    <title>markedown</title>
+    <url>/2020/10/08/markdown/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="Markdown学习经历"><a href="#Markdown学习经历" class="headerlink" title="Markdown学习经历"></a>Markdown学习经历</h1><hr>
+<h2 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h2><hr>
+<h3 id="1-基本语法"><a href="#1-基本语法" class="headerlink" title="1.基本语法"></a>1.基本语法</h3><h4 id="1-1-字体设置斜体、粗体、删除线"><a href="#1-1-字体设置斜体、粗体、删除线" class="headerlink" title="1.1 字体设置斜体、粗体、删除线"></a>1.1 字体设置斜体、粗体、删除线</h4><pre><code>&#39;&#39;&#39;
+斜体
+*这里是文字* 
+_这里是文字_
+&#39;&#39;&#39;  </code></pre>
+<p><em>文字</em><br><em>文字</em>  </p>
+<pre><code>&#39;&#39;&#39;
+加粗
+**这里是文字**
+倾斜加粗
+***这里是文字***
+&#39;&#39;&#39;</code></pre>
+<p><strong><em>文字</em></strong></p>
+<pre><code>&#39;&#39;&#39;
+删除线
+~~这里是文字~~
+&#39;&#39;&#39;</code></pre>
+<p><del>文字</del></p>
+<h4 id="1-2-分级标题"><a href="#1-2-分级标题" class="headerlink" title="1.2 分级标题"></a>1.2 分级标题</h4><h5 id="写法1："><a href="#写法1：" class="headerlink" title="写法1："></a>写法1：</h5><pre><code>&#39;&#39;&#39;
+int 1
+# 一级标题
+## 二级标题
+### 三级标题
+#### 四级标题
+##### 五级标题
+###### 六级标题  
+&#39;&#39;&#39;</code></pre>
+<p>这个写法和 <strong>文字</strong>效果是一样的</p>
+<h6 id="写法2："><a href="#写法2：" class="headerlink" title="写法2："></a>写法2：</h6><pre><code>这是一个一级标题
+============================</code></pre>
+<p>或者</p>
+<pre><code>二级标题
+- - - - - - - - - - - - - -</code></pre>
+<h4 id="1-3-链接"><a href="#1-3-链接" class="headerlink" title="1.3 链接"></a>1.3 链接</h4><h5 id="1-自动链接"><a href="#1-自动链接" class="headerlink" title="1.自动链接"></a>1.自动链接</h5><p><a href="https://jurassic.cool/">https://jurassic.cool</a></p>
+<pre><code> &lt;https://jurassic.cool&gt;</code></pre>
+<h5 id="2"><a href="#2" class="headerlink" title="2."></a>2.</h5><h4 id="1-4-分割线"><a href="#1-4-分割线" class="headerlink" title="1.4 分割线"></a>1.4 分割线</h4><pre><code>-----</code></pre>
+<h4 id="1-5-代码块"><a href="#1-5-代码块" class="headerlink" title="1.5 代码块"></a>1.5 代码块</h4><ul>
+<li>按一个tap缩进 </li>
+</ul>
+<p>如下</p>
+<pre><code>print(tf.__version__)
+print(sys.version_info)</code></pre>
+<h4 id="1-6-引用"><a href="#1-6-引用" class="headerlink" title="1.6 引用"></a>1.6 引用</h4><pre><code>&gt;这是一段引用</code></pre>
+<blockquote>
+<p>这是一段引用</p>
+</blockquote>
+<h4 id="1-7-表格"><a href="#1-7-表格" class="headerlink" title="1.7 表格"></a>1.7 表格</h4><p>实列：</p>
+<pre><code>|商品|数量|单价|
+|-|-------:|:------:|
+|苹果|10|\$1|
+|电脑|1|\$1000|</code></pre>
+<p>第二行设置表格格式</p>
+<ul>
+<li>居中</li>
+<li>左对齐</li>
+<li>右对齐</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>商品</th>
+<th align="center">数量</th>
+<th align="center">单价</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>苹果</td>
+<td align="center">10</td>
+<td align="center">$1</td>
+</tr>
+<tr>
+<td>电脑</td>
+<td align="center">1</td>
+<td align="center">$1000</td>
+</tr>
+</tbody></table>
+<h4 id="1-8流程图"><a href="#1-8流程图" class="headerlink" title="1.8流程图"></a>1.8流程图</h4><pre><code>主要的语法为 name=&gt;type: describe，其中 type 主要有以下几种：
+1.开始和结束：start end
+2.输入输出：inputoutput
+3.操作：operation
+4.条件：condition
+5.子程序：subroutine</code></pre>
+]]></content>
+  </entry>
+  <entry>
     <title>mini_batch</title>
     <url>/2020/10/14/mini-batch/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="采样"><a href="#采样" class="headerlink" title="采样"></a>采样</h1><p>我气死了</p>
@@ -404,10 +404,135 @@ print(sys.version_info)</code></pre>
     <title>信息论复习-概念</title>
     <url>/2020/10/31/%E4%BF%A1%E6%81%AF%E8%AE%BA%E5%A4%8D%E4%B9%A0/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="绪论"><a href="#绪论" class="headerlink" title="绪论"></a>绪论</h1><ul>
-<li>信息是事物运动状态或存在方式的不确定性描述</li>
-<li>通信的结果是要消除或部分消除不确定性从而获得信息</li>
+<li><p>通信系统模型的演变</p>
+<ul>
+<li><p>点对点系统</p>
+<ul>
+<li>信源 信道（噪声） 信宿</li>
+<li>消息：包含信息</li>
+<li>信号：运载信息，码符号</li>
+<li>传输消息，获得信息</li>
 </ul>
-<h1 id="离散信源"><a href="#离散信源" class="headerlink" title="离散信源"></a>离散信源</h1>]]></content>
+</li>
+<li><p>香农信息的定义：事物在运动状态或存在方式上不确定性的描述</p>
+<ul>
+<li><p>定性</p>
+</li>
+<li><p>定量 自信息–互信息</p>
+</li>
+<li><p>加入编码器，译码器</p>
+</li>
+<li><p>信源 编码器 信道（噪声） 译码器 信宿</p>
+<ul>
+<li>编码器<ul>
+<li>信源编码器<ul>
+<li>提高有效性（信息传输速率），去冗余，压缩。</li>
+</ul>
+</li>
+<li>信道编码器<ul>
+<li>提高可靠性（错误概率），加冗余（检验码元）</li>
+</ul>
+</li>
+<li>调制器</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>信源 信源编码 加密 信道编码（抗干扰） 调制器（适合传输）信道（干扰）解调 信道译码 解密 信源译码 信宿 </p>
+</li>
+</ul>
+</li>
+<li><p>通信的目的：</p>
+<ul>
+<li>消除不确定性，部门消除不确定性</li>
+<li>获得信息</li>
+<li>提高可靠性，有效性，安全性</li>
+<li>研究理论极限（香农定理）</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>-概率论</p>
+<ul>
+<li>条件概率</li>
+<li>条件矩阵</li>
+<li>连续分布</li>
+</ul>
+<iframe
+style="margin-left: 2px; margin-bottom:-5px;" 
+src="//player.bilibili.com/player.html?aid=542689851&bvid=BV1Ki4y1L7Vm&cid=251144516&page=1" 
+scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
+</iframe>
+
+<h1 id="离散信源及其信息测度"><a href="#离散信源及其信息测度" class="headerlink" title="离散信源及其信息测度"></a>离散信源及其信息测度</h1><ul>
+<li><p>自信息 熵</p>
+<ul>
+<li>性质：<ul>
+<li>强可加性<ul>
+<li>条件熵</li>
+<li>X 与 Y 独立 联合熵=边缘熵</li>
+</ul>
+</li>
+<li>扩展：<ol>
+<li>多变量联合熵</li>
+<li>不等关系</li>
+<li>N次扩展信源</li>
+</ol>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>马尔可夫信源</p>
+<ul>
+<li><p><strong>马尔科夫链</strong></p>
+<ul>
+<li>随机变量的状态仅与上一时刻的状态有关，与再之前的无关</li>
+<li>时齐马氏链 ：一步状态转移概率平稳，矩阵表示</li>
+</ul>
+</li>
+<li><p>分析思路：</p>
+<ol>
+<li>判断是否时齐 –一步状态转移概率矩阵P</li>
+<li>判断各态历经性（一定要判断）<ol>
+<li>P^r中各元素大于零的r是否存在</li>
+<li>不可约闭集</li>
+</ol>
+</li>
+<li>求解稳态概率<ol>
+<li>WP =W</li>
+<li>归一化条件</li>
+</ol>
+</li>
+</ol>
+</li>
+<li><p><strong>马尔可夫信源</strong></p>
+<ul>
+<li>信源的记忆长度为M+1时，当前符号只与前面的M个符号有关</li>
+<li>符号转移概率</li>
+<li>状态转移概率</li>
+</ul>
+<ol>
+<li>时齐马尔可夫信源</li>
+<li>矩阵不同：信源一阶马尔可夫信源</li>
+</ol>
+<ul>
+<li>分析思路：<ol>
+<li>条件概率，符号转移矩阵，一步状态转移矩阵，状态转移图，描述马尔可夫信源</li>
+<li>根据一步状态转移矩阵判定稳态是否存在</li>
+<li>求稳态概率</li>
+<li>根据符号条件概率矩阵求极限熵</li>
+<li>符号平稳分布</li>
+<li>冗余度</li>
+</ol>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h1 id="离散信道"><a href="#离散信道" class="headerlink" title="离散信道"></a>离散信道</h1><h1 id=""><a href="#" class="headerlink" title=""></a></h1>]]></content>
       <categories>
         <category>信息论</category>
       </categories>
